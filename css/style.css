@@ -1,0 +1,35 @@
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+}
+.danger{
+    border: 1px solid red;
+}
+.form1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 50px;
+}
+.forin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 50px;
+}
+.span{
+    color: blue;
+}
+.text{
+    color: red;
+}
+.text1{
+    color: blue;
+}
